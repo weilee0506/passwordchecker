@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e797be9-a683-4b19-8d8c-f2512b77579f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checkmypass.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkmypass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
